@@ -1,0 +1,2 @@
+# sdc.configurator
+SDC Configurator
